@@ -1,0 +1,13 @@
+{
+  "name": "fdp-framework",
+  "version": "0.0.1",
+  "dependencies": {
+    "jasmine": "^2.5.2",
+    "jasmine-expect": "^2.0.2",
+    "jasmine-spec-reporter": "^2.5.0",
+    "lodash": "^4.14.1",
+    "protractor": "^2.5.1",
+    "protractor-html-screenshot-reporter": "0.0.21"
+  },
+  "devDependencies": {}
+}
